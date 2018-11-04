@@ -1,4 +1,4 @@
-#include <stdio.h>  
+﻿#include <stdio.h>  
 #include <stdlib.h>  
 #include <time.h>  
 
@@ -39,6 +39,8 @@ int main()
 	{
 		printf("Inget medelvärde eftersom att antal tal var 0.");
 	}
+
+	system("pause");
 
 	return 0;
 }
